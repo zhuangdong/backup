@@ -3,6 +3,6 @@
 
 ```python
 # created by zd on 20181218
-print 'thinkpad'
+print 'thinkpad-lenovo'
 ```
 
